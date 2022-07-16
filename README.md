@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-  Eu sou o João Ribeiro, tenho 21 anos e sou um estudante de programação. Sempre fui muito interessado na área de criação e construção de ideias/projetos, sou muito grato a programação por abrir a possibilidade de trabalhar com isso!
+  Meu nome é João Ribeiro, tenho 21 anos e sou um estudante de programação. Sempre fui muito interessado na área de criação e construção de ideias/projetos, sou muito grato a programação por abrir a possibilidade de trabalhar com isso!
   
    :computer: Tenho conhecimento nas seguintes tecnologias:
    
